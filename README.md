@@ -75,10 +75,10 @@
 - Gained strong foundation in Java fundamentals & React.js development
 - Collaborated on real-world projects applying theoretical knowledge
 
-**⚙️ MULTITECH AUTOMATIONS** - *Project Engineer*  
-*Aug 2021 - Nov 2022 | Bangalore, Karnataka*
-- Designed HMI interfaces for industrial automation systems
-- Improved operator efficiency and reduced downtime by **25%**
+**⚙️ K2Web Solutions Pvt Lmt** - *Junior Front End Developer* 
+*Sept 2021 - Jan 2022 | Kochi, Kerala*
+- Developed responsive, SEO-friendly UIs using React.js, TypeScript, HTML, and CSS
+- Translated Figma designs into reusable components, improving code quality and site performance
 
 ---
 
